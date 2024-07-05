@@ -1,4 +1,3 @@
-
 ![logo](supun-new.png)
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
@@ -16,11 +15,6 @@
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="icon" width="50" height="50" />
-</div>
-
-<br>
-
-<div align="center">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/r-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="icon" width="50" height="50" />
@@ -29,10 +23,10 @@
   <img src="https://techstack-generator.vercel.app/powerbi-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif">
 <br><br>
 
-- 🔭 I’m currently seeking internship opportunities in **Project Management** or **Web Development**
+- 🔭 I’m currently working as a **Project Management Intern at LSEG**
 
 - 🌱 I’m currently learning **Advanced Web Development and Project Management Techniques**
 
