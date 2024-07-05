@@ -1,17 +1,15 @@
-
-<h1 align="center">Hi there, I'm Nipuni Cabral 👋</h1>
-
+<h1 align="center">Hello, I'm Nipuni Cabral 👋</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/xUPGcdhiQ2CGIwD9o8/giphy.gif" width="200">
+  <a href="https://github.com/your-github-username">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Passionate+about+Software+Engineering;Project+Management;UI%2FUX+Designing" alt="Typing SVG" />
+  </a>
 </p>
-
-<h3 align="center">Welcome to my GitHub profile!</h3>
 
 ---
 
 ## 🌟 About Me
 
-I'm a passionate final-year ICT Honors student at the University of Sri Jayewardenepura. I specialize in software development and project management, constantly learning new technologies to stay at the forefront of the industry. Welcome to my GitHub profile where I showcase my projects and share my coding journey!
+I'm a final-year ICT Honors student at the University of Sri Jayewardenepura. I specialize in software development and project management, constantly learning new technologies to stay at the forefront of the industry. Welcome to my GitHub profile where I showcase my projects and share my coding journey!
 
 ---
 
@@ -36,13 +34,13 @@ I'm a passionate final-year ICT Honors student at the University of Sri Jayeward
 
 ## 🛠 Skills
 
-### Programming Languages
+### 🖥️ Programming Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 </p>
 
-### Web Development
+### 🌐 Web Development
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -50,23 +48,29 @@ I'm a passionate final-year ICT Honors student at the University of Sri Jayeward
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-### Mobile Development
+### 📱 Mobile Development
 <p align="left">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
-### Database
+### 🗄️ Database
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-### API
+### 🔄 Version Control
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+### 🔧 API
 <p align="left">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
-### Other
+### 🎛️ Other
 <p align="left">
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
   <img src="https://img.shields.io/badge/Asana-273347?style=for-the-badge&logo=asana&logoColor=white"/>
