@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Nipuni Cabral 👋</h1>
 <p align="center">
   <a href="https://github.com/your-github-username">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines= Passionate+about+Software+Engineering ;Project+Management;UI%2FUX+Designing" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines= Software+Engineering ;Project+Management;UI%2FUX+Designing" alt="Typing SVG" />
   </a>
 </p>
 
