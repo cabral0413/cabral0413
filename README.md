@@ -1,87 +1,115 @@
-<h1 align="center">Hello, I'm Nipuni Cabral 👋</h1>
+![logo](1.png)
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+
+<h1 align="center">Hi there! 👋 I'm Nipuni Cabral</h1>
+<h3 align="center">Passionate Programmer | Web Developer | React Native Enthusiast</h3>
+<p align="center">I'm fascinated by the transformative power of technology and love exploring new tech stacks to build exciting projects.</p>
+
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/r-icon.svg" alt="R" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="CSS" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/javascript-icon.svg" alt="JavaScript" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-native-icon.svg" alt="React Native" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/trello-icon.svg" alt="Trello" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/asana-icon.svg" alt="Asana" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/postman-icon.svg" alt="Postman" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/powerbi-icon.svg" alt="PowerBI" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/ms-office-icon.svg" alt="MS Office" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="Git" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50" />
+</div>
+
+<br>
+
 <p align="center">
-  <a href="https://github.com/your-github-username">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=%3Cspan+style%3D%22background%3Alinear-gradient(90deg%2C+%23FF7EB3%2C+%23FF65A3%2C+%23FF497A)%3B+-webkit-background-clip%3A+text%3B+color%3A+transparent%3B%22%3ESoftware+Engineering%3C%2Fspan%3E%3Cbr%2F%3E%3Cspan+style%3D%22background%3Alinear-gradient(90deg%2C+%23FF7EB3%2C+%23FF65A3%2C+%23FF497A)%3B+-webkit-background-clip%3A+text%3B+color%3A+transparent%3B%22%3EProject+Management%3C%2Fspan%3E%3Cbr%2F%3E%3Cspan+style%3D%22background%3Alinear-gradient(90deg%2C+%23FF7EB3%2C+%23FF65A3%2C+%23FF497A)%3B+-webkit-background-clip%3A+text%3B+color%3A+transparent%3B%22%3EUI%2FUX+Designing%3C%2Fspan%3E" alt="Typing SVG" />
+  <a href="https://facebook.com/supun.nanayakkaraii" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/supun___lk" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/supunnanayakkara" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="mailto:supunanjanananayakkara@gmail.com" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="Email" height="30" width="40" />
   </a>
 </p>
 
----
+<br>
 
-## 🌟 About Me
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-I'm a final-year ICT Honors student at the University of Sri Jayewardenepura. I specialize in software development and project management, constantly learning new technologies to stay at the forefront of the industry. Welcome to my GitHub profile where I showcase my projects and share my coding journey!
+<h3 align="left">About Me:</h3>
 
----
+<p align="left">I am a passionate programmer from Sri Lanka, deeply interested in software engineering and the ever-evolving world of technology. My journey in coding started early, and I continue to expand my skills and knowledge.</p>
 
-## 🌐 Socials
+<h3 align="left">Skills:</h3>
+
+- **Programming Languages**: Python, R
+- **Web Development**: HTML, CSS, React, JavaScript
+- **Mobile Development**: React Native
+- **Database**: MySQL, MongoDB
+- **Other**: Project Management Tools (Trello, Asana), Postman, PowerBI, MS Office
+- **Version Control**: Git, GitHub
+
+<h3 align="left">Connect with Me:</h3>
+<p align="left">
+  Let's connect on social media or drop me an email if you have any inquiries or just want to chat!
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+
+- **Backend**: PHP, Java, Node.js
+- **Frontend**: TypeScript, Redux, Tailwind CSS, Material UI
+- **Database**: PostgreSQL
+- **Cloud Servers**: Azure, AWS, Google Cloud Platform (GCP), Firebase, Cloudflare
+- **Tools**: Docker, Figma, Adobe XD, IntelliJ IDEA, VS Code, Linux
+
+<br/>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://facebook.com/your-facebook-profile" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/your-instagram-handle" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px">
 </p>
 
----
+<h3 align="center">GitHub Stats:</h3>
+<div align="center">
+ 
+![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=supuna97&theme=midnight-purple&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=contribs,issues)
 
-## 🛠 Skills
+[![GitHub Streak](https://streak-stats.demolab.com/?user=supuna97&theme=midnight-purple)](https://git.io/streak-stats)
 
-### 🖥️ Programming Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-</p>
+</div>
 
-### 🌐 Web Development
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
+<br><br>
 
-### 📱 Mobile Development
-<p align="left">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</p>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-### 🗄️ Database
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
+<h3 align="center">GitHub Activity:</h3>
 
-### 🔄 Version Control
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+![Supuna97's Graph](https://github-readme-activity-graph.vercel.app/graph?username=supuna97&custom_title=Supun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
-### 🔧 API
-<p align="left">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
+<br><br>
 
-### 🎛️ Other
-<p align="left">
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Asana-273347?style=for-the-badge&logo=asana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
-</p>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
----
+<h3 align="center">Achievements:</h3>
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical"/>
-</p>
+[![An image of @supuna97's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/supuna97)](https://holopin.io/@supuna97)
+
+<br><br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Let's connect and build amazing things together!</b> Feel free to reach out, I'm always up for a good tech discussion or collaboration.</em>
+
+<br>
+
+<p align="right"> Created with 💖 by <a href="http://supun.traditionalme.life">Supun Nanayakkara</a></p>
