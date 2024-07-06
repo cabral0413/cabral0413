@@ -16,9 +16,9 @@
 
 - 🌱 I’m currently learning **Advanced Web Development and Project Management Techniques**
 
-- 👨‍💻 All of my projects are available at [nipuni's workspace]([http://nipuni-cabral.github.io](https://my-portfolio-rouge-tau.vercel.app/))
+- 👨‍💻 All of my projects are available at [Nipuni's workspace](https://my-portfolio-rouge-tau.vercel.app/)
 
-- 💬 Ask me about ** HTML, CSS, React, JavaScript, React Native, MySQL, MongoDB, and Python**
+- 💬 Ask me about **HTML, CSS, React, JavaScript, React Native, MySQL, MongoDB, and Python**
 
 - 📫 How to reach me **nipuni.cabral.tech@gmail.com**
 
