@@ -1,6 +1,5 @@
 ![logo](1.png)
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
-<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center">Hi 👋, I'm Nipuni Cabral</h1>
 <h3 align="center">A passionate IT Undergraduate from Sri Lanka</h3>
@@ -11,22 +10,24 @@
 <br>
 
 <div style="display: flex; align-items: center;">
-  <div style="flex: 2;">
-    - 🔭 I’m currently working as a **Project Management Intern at LSEG**
-
-    - 🌱 I’m currently learning **Advanced Web Development and Project Management Techniques**
-
-    - 👨‍💻 All of my projects are available at [Nipuni's workspace](https://my-portfolio-rouge-tau.vercel.app/)
-
-    - 💬 Ask me about **HTML, CSS, React, JavaScript, React Native, MySQL, MongoDB, and Python**
-
-    - 📫 How to reach me **nipuni.cabral.tech@gmail.com**
-
-    - ⚡ Fun fact **I believe a smile can solve most problems!**
-  </div>
   <div style="flex: 1;">
     <img align="right" alt="Coding" width="400" src="coding.gif">
   </div>
+   <div style="flex: 2;">
+<br><br>
+
+- 🔭 I’m currently working as a **Project Management Intern at LSEG**
+
+- 🌱 I’m currently learning **Advanced Web Development and Project Management Techniques**
+
+- 👨‍💻 All of my projects are available at [Nipuni's workspace](https://my-portfolio-rouge-tau.vercel.app/)
+
+- 💬 Ask me about **HTML, CSS, React, JavaScript, React Native, MySQL, MongoDB, and Python**
+
+- 📫 How to reach me **nipuni.cabral.tech@gmail.com**
+
+- ⚡ Fun fact **I believe a smile can solve most problems!**
+</div>
 </div>
 <br>
  
@@ -90,3 +91,4 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more !</b> :)</em>
+
