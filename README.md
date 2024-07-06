@@ -9,7 +9,7 @@
 </p>
 
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif">
+<img align="right" alt="Coding" width="400" src=(coding.gif)>
 <br><br>
 
 - 🔭 I’m currently working as a **Project Management Intern at LSEG**
