@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Advanced Web Development and Project Management Techniques**
 
-- 👨‍💻 All of my projects are available at [nipuni's workspace](http://nipuni-cabral.github.io)
+- 👨‍💻 All of my projects are available at [nipuni's workspace]([http://nipuni-cabral.github.io](https://my-portfolio-rouge-tau.vercel.app/))
 
 - 💬 Ask me about ** HTML, CSS, React, JavaScript, React Native, MySQL, MongoDB, and Python**
 
@@ -30,7 +30,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/nipunicabral/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nipuni-cabral"  height="40" width="50"/></a>
+<a href="https://www.linkedin.com/in/nipunicabral/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nipuni-cabral"  height="30" width="40"/></a>
 <a href="https://www.facebook.com/nipuni.cabral/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nipuni.cabral" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_nipuni_cabral/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nipuni.cabral" height="30" width="40" /></a>
 </p>
