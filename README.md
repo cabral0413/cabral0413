@@ -1,4 +1,4 @@
-![logo](supun-new.png)
+![logo](1.png)
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center">Hi 👋, I'm Nipuni Cabral</h1>
@@ -8,20 +8,6 @@
  <img src="https://komarev.com/ghpvc/?username=cabral0413&label=Profile%20views&color=ff69b4&style=flat" alt="nipuni cabral" /> 
 </p>
 
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/r-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/postman-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/powerbi-icon.svg" alt="icon" width="50" height="50" />
-</div>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif">
 <br><br>
@@ -51,33 +37,49 @@
 
 <h3 align="left">Skills:</h3>
 
-- **Programming Languages:**
-  - Python
-  - R
+### 🖥️ Programming Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+</p>
 
-- **Web Development:**
-  - HTML
-  - CSS
-  - React
-  - JavaScript
+### 🌐 Web Development
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
-- **Mobile Development:**
-  - React Native
+### 📱 Mobile Development
+<p align="left">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</p>
 
-- **Database:**
-  - MySQL
-  - MongoDB
+### 🗄️ Database
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
 
-- **Other Tools:**
-  - Project Management: Trello, Asana
-  - Postman
-  - PowerBI
-  - MS Office
-  - Version Control: Git, GitHub
+### 🔄 Version Control
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
-<br/>
+### 🔧 API
+<p align="left">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+### 🎛️ Other
+<p align="left">
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Asana-273347?style=for-the-badge&logo=asana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
+</p>
 
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
