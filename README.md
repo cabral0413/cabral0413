@@ -9,7 +9,11 @@
 </p>
 <br>
 
-<img align="right" alt="Coding" width="400" src="coding.gif">
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <img align="right" alt="Coding" width="400" src="coding.gif">
+  </div>
+   <div style="flex: 2;">
 <br><br>
 
 - 🔭 I’m currently working as a **Project Management Intern at LSEG**
@@ -23,7 +27,8 @@
 - 📫 How to reach me **nipuni.cabral.tech@gmail.com**
 
 - ⚡ Fun fact **I believe a smile can solve most problems!**
-
+</div>
+</div>
 <br>
  
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
