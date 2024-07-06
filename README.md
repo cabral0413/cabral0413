@@ -7,7 +7,7 @@
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=cabral0413&label=Profile%20views&color=ff69b4&style=flat" alt="nipuni cabral" /> 
 </p>
-
+<br>
 
 <img align="right" alt="Coding" width="400" src=(coding.gif)>
 <br><br>
@@ -24,7 +24,7 @@
 
 - ⚡ Fun fact **I believe a smile can solve most problems!**
 
-<be>
+<br>
  
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
