@@ -42,7 +42,7 @@
 
 ### 🖥️ Programming Languages
 <p align="left">
-   <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare" />
+   <img src="https://skillicons.dev/icons?i=py,r,js" />
 </p>
 
 ### 🌐 Web Development
