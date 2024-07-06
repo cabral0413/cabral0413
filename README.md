@@ -24,7 +24,10 @@
 
 - ⚡ Fun fact **I believe a smile can solve most problems!**
 
-<br>
+<be>
+ 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nipuni-cabral" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nipuni-cabral" height="30" width="40" /></a>
@@ -39,8 +42,7 @@
 
 ### 🖥️ Programming Languages
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+   <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare" />
 </p>
 
 ### 🌐 Web Development
@@ -80,6 +82,8 @@
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
 </p>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
